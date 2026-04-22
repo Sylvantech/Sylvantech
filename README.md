@@ -2,7 +2,7 @@
 
 
 Je suis Sylvan, un passionné du code !
-Actuellement en reconversion chez Epitech pour en faire mon métier.<b><br>Je suis actuellement à la recherche d'une alternance pour septembre 2025.
+
 #### <p align="center">[Mes projets 🛠️](https://github.com/Sylvantech?tab=repositories)</p>
 
 
